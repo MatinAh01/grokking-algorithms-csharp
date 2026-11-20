@@ -8,7 +8,7 @@ because the array is unsorted and the minimum element might be the last one.
 - For n elements, how many comparisons do I make?
 n -1.
 
-- Time complexity? O(log n)
+- Time complexity? O(n)
 
 ## Selection sort
 
